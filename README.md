@@ -1,2 +1,3 @@
 # CodeLabsProAI
-CodeLabsProAI - AI Workflow Automation
+
+CodeLabsProAI - CodeLabsProAI - PrivateAI for Secure Markets Intelligence using Multi-Agent Orchestration Workflow
